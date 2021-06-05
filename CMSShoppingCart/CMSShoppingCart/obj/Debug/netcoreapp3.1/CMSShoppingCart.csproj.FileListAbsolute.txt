@@ -151,3 +151,7 @@ C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Pages\Details.cshtml.g.cs
+C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Pages\Create.cshtml.g.cs
+C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NotificationPartial.cshtml.g.cs
+C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Pages\Edit.cshtml.g.cs

@@ -12,19 +12,18 @@ namespace CMSShoppingCart.Models
         /// <summary>
         /// Title of the page
         /// </summary>
-        [Required]
+        [Required, MinLength(2, ErrorMessage ="Minimum length is 2")]
         public string Title { get; set; }
 
         /// <summary>
         /// Url friendly representation of a title
         /// </summary>
-        [Required]
         public string Slug { get; set; }
 
         /// <summary>
         /// Page content
         /// </summary>
-        [Required]
+        [Required, MinLength(4, ErrorMessage = "Minimum length is 4")]
         public string Content { get; set; }
 
         /// <summary>
