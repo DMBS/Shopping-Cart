@@ -73,3 +73,4 @@ C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\bin\Debug
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\CMSShoppingCart.csprojAssemblyReference.cache
