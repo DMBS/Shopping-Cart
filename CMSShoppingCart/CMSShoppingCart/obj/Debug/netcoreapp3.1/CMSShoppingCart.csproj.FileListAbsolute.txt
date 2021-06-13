@@ -155,4 +155,3 @@ C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_NotificationPartial.cshtml.g.cs
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Pages\Edit.cshtml.g.cs
 C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\bin\Debug\netcoreapp3.1\libman.json
-C:\Repo\GitHub\.NET-Core-Shopping-Cart\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\CMSShoppingCart.csprojAssemblyReference.cache
