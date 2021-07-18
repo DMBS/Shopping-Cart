@@ -8532,11 +8532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repo\\GitHub\\CMSShoppingCart\\CMSShoppingCart\\CMSShoppingCart.csproj",
+      "projectUniqueName": "C:\\Repo\\GitHub\\CMSShoppingCart_CORE\\CMSShoppingCart\\CMSShoppingCart\\CMSShoppingCart.csproj",
       "projectName": "CMSShoppingCart",
-      "projectPath": "C:\\Repo\\GitHub\\CMSShoppingCart\\CMSShoppingCart\\CMSShoppingCart.csproj",
+      "projectPath": "C:\\Repo\\GitHub\\CMSShoppingCart_CORE\\CMSShoppingCart\\CMSShoppingCart\\CMSShoppingCart.csproj",
       "packagesPath": "C:\\Users\\Snigirev\\.nuget\\packages\\",
-      "outputPath": "C:\\Repo\\GitHub\\CMSShoppingCart\\CMSShoppingCart\\obj\\",
+      "outputPath": "C:\\Repo\\GitHub\\CMSShoppingCart_CORE\\CMSShoppingCart\\CMSShoppingCart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Snigirev\\AppData\\Roaming\\NuGet\\NuGet.Config",
