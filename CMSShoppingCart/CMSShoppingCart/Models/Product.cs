@@ -30,6 +30,7 @@ namespace CMSShoppingCart.Models
         public virtual Category Category { get; set; }
 
         [NotMapped]
+        [FileExtension]
         public IFormFile ImageUpload { get; set; }
     }
 }
