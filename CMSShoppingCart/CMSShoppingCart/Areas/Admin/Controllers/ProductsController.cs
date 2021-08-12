@@ -83,5 +83,19 @@ namespace CMSShoppingCart.Areas.Admin.Controllers
 
             return View(product);
         }
+
+        // GET /admin/products/details/id
+        public async Task<IActionResult> Details(int id)
+        {
+            Product product = await _context.Products.Include(x => x.Category)
+                .FirstOrDefaultAsync(x => x.Id == id);
+
+            if (product == null) 
+            { 
+                return NotFound(); 
+            }
+
+            return View(product);
+        }
     }
 }

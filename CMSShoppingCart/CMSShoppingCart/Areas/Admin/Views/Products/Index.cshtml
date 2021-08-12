@@ -35,13 +35,13 @@
                     @item.Name
                 </td>
                 <td>
-                    @item.Price
+                    @item.Price.ToString("C2")
                 </td>
                 <td>
                     @item.Category.Name
                 </td>
                 <td>
-                    image
+                    <img src="~/media/products/@item.Image" width="100" alt="" />
                 </td>
                 <td>
                     <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |

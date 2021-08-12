@@ -475,3 +475,5 @@ C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\obj\Debug\ne
 C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Index.cshtml.g.cs
 C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Create.cshtml.g.cs
 C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\bin\Debug\netcoreapp3.1\Codehaks.Pagination.dll
+C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Products\Details.cshtml.g.cs
+C:\Repo\GitHub\CMSShoppingCart_CORE\CMSShoppingCart\CMSShoppingCart\obj\Debug\netcoreapp3.1\CMSShoppingCart.csproj.AssemblyReference.cache
