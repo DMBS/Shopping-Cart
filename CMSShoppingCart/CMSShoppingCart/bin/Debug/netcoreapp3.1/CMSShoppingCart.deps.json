@@ -31,6 +31,7 @@
     ".NETCoreApp,Version=v3.1": {
       "CMSShoppingCart/1.0.0": {
         "dependencies": {
+          "Codehaks.Pagination": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.7",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.5",
@@ -310,6 +311,20 @@
         },
         "compile": {
           "CMSShoppingCart.dll": {}
+        }
+      },
+      "Codehaks.Pagination/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Razor": "2.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Codehaks.Pagination.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Codehaks.Pagination.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -3825,6 +3840,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Codehaks.Pagination/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SOYDxYyYztJfZ1LvmTcl+uV1MRfQlssfFXBf14VQd0tlvz+mEeCE1wlPjMrssI0XdTBMQi1I0UrhPMI5JDuXjg==",
+      "path": "codehaks.pagination/1.0.0",
+      "hashPath": "codehaks.pagination.1.0.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",

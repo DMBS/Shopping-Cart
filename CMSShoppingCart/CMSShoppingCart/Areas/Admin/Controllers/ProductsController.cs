@@ -24,14 +24,13 @@ namespace CMSShoppingCart.Areas.Admin.Controllers
         }
 
         // GET /admin/products
-        public async Task<IActionResult> Index(int p = 1 )
+        public async Task<IActionResult> Index(int p = 1)
         {
             int pageSize = 6;
-            var products = _context.Products
-                .OrderByDescending(x => x.Id)
-                .Include(x => x.Category)
-                .Skip((p - 1) * pageSize)
-                .Take(pageSize);
+            var products = _context.Products.OrderByDescending(x => x.Id)
+                                            .Include(x => x.Category)
+                                            .Skip((p - 1) * pageSize)
+                                            .Take(pageSize);
 
             ViewBag.PageNumber = p;
             ViewBag.PageRange = pageSize;

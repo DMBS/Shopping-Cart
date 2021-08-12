@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qje22ZJzfsqFA4nJz8adrpCv2il3ZZc1QDG+xfziCunpLtUipfjHzeCelsmf7vZO6M1TobEGn8k6MYgntirUNw==",
+  "dgSpecHash": "GrJyR2Xh6XeNwjrUuMwhc1SB9hjSDpMQzUryDkbqG9EpRaQC77CVd73K+MQ64ysRrNsiHBCDMvWELPxMTz38kw==",
   "success": true,
   "projectFilePath": "C:\\Repo\\GitHub\\CMSShoppingCart_CORE\\CMSShoppingCart\\CMSShoppingCart\\CMSShoppingCart.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Snigirev\\.nuget\\packages\\codehaks.pagination\\1.0.0\\codehaks.pagination.1.0.0.nupkg.sha512",
     "C:\\Users\\Snigirev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Snigirev\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Snigirev\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
